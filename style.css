@@ -1,0 +1,35 @@
+body {
+  background-color: black;
+  font-family: system-ui, sans-serif;
+}
+img {
+  height: 13%;
+  width: 13%;
+}
+main {
+  width: 90%;
+  margin: 0 auto;
+}
+h1,
+h2 {
+  color: white;
+  text-align: center;
+  margin: 0%;
+  margin-bottom: 2.5%;
+}
+
+.projects {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+
+.project-link {
+  background-color: azure;
+  text-decoration: none;
+  padding: 10px 30px;
+  border-radius: 10px;
+  font-size: 20px;
+  color: black;
+  font-weight: 500;
+}

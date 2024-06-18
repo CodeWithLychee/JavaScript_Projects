@@ -1,0 +1,48 @@
+body {
+  margin: 0%;
+  padding: 0%;
+  background-color: rgba(0, 0, 0, 0.926);
+}
+nav {
+  margin-top: 2%;
+  width: 95%;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 0.9rem;
+}
+nav > a {
+  text-decoration: none;
+  border: 2px solid black;
+  color: black;
+  padding: 0.7rem;
+  border-radius: 8px;
+  font-size: 20px;
+  font-weight: 600;
+  background-color: #eee;
+}
+
+.centre {
+  width: 85%;
+  margin: 5% auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 40px;
+  color: #eee;
+}
+
+#banner {
+  font-size: 80px;
+  text-align: center;
+}
+
+#date,
+#clock {
+  font-size: 50px;
+}
+
+img {
+  width: 500px;
+  height: 300px;
+}
