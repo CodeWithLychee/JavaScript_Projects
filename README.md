@@ -6,7 +6,7 @@
 <br/>
 
 <h3>Homepage : </h3>
-<img width="500px" src="https://github.com/CodeWithLychee/JavaScript_Projects/blob/main/Images_for_Project/1.png" />
+<img width="500px" src="https://github.com/CodeWithLychee/JavaScript_Projects/blob/main/Images_for_Project/homepage.png" />
 <br/>
 
 <h3>Project 1 : </h3>
